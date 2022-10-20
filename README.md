@@ -6,7 +6,7 @@
 
 ## Installation
 
-[Öncelikle projeyi clonelayın.](https://github.com/irfansukru/kodluyoruz-front-end.git)
+[Öncelikle projeyi klonlayın.](https://github.com/irfansukru/kodluyoruz-front-end.git)
 
 ## Usage
 
